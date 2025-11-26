@@ -1,0 +1,12 @@
+jwt
+pytz
+redis
+uvicorn
+numpy
+pandas
+plotly
+fastapi
+re
+sendgrid
+psycopg2
+datetime

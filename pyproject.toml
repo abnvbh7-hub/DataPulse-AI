@@ -1,0 +1,23 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "bcrypt>=5.0.0",
+    "fastapi>=0.120.1",
+    "nest-asyncio>=1.6.0",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "plotly>=6.3.1",
+    "psycopg2-binary>=2.9.11",
+    "pydantic>=2.12.3",
+    "pyjwt>=2.10.1",
+    "pyngrok>=7.4.1",
+    "pytz>=2025.2",
+    "redis>=7.0.1",
+    "requests>=2.32.5",
+    "sendgrid>=6.12.5",
+    "uvicorn>=0.38.0",
+]
