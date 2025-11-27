@@ -24,7 +24,7 @@ Real-time IoT dashboard to securely store, monitor, control, analyze, and foreca
 
 ------------------------------------------------------------
 
-🖥 UI Screenshots (insert paths after adding images)
+🖥 UI Screenshots 
 
 1. Entry Page    → <img width="1364" height="656" alt="entry-page" src="https://github.com/user-attachments/assets/105f7daf-e325-47db-8715-ba372d4c1d21" />
 2. Login Page    →  <img width="1360" height="662" alt="login-page" src="https://github.com/user-attachments/assets/b0fe23ab-f923-4212-a7b3-3b3a5cd5dcb0" />
