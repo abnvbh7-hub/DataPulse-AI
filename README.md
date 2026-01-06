@@ -34,6 +34,7 @@ This sensor sends data directly to the dashboard from anywhere around the world 
 ------------------------------------------------------------
 
 💡 Highlights
+
 ✔ Complete IoT data cycle: Log → Store → Visualize → Analyze → Control  
 ✔ Secure and scalable architecture  
 ✔ Real-time visual feedback  
